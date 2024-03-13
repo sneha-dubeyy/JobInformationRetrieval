@@ -1,1 +1,1 @@
-# JobQualificationsInformationRetrieval
+# JobInformationRetrieval
